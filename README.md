@@ -1,5 +1,8 @@
 VK API Fix
 
+
+https://github.com/Corak667/vkpost оригинальный пост
+
 Автоматические массовые загрузчики видеофайлов и документов vk "vkpost" в группы и аккаунты.
 
 Автор основного javascript кода: Seiya Loveless. 
