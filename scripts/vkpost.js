@@ -321,7 +321,7 @@ var max_wait_time = argv.w ? 0 : 120;
 var video_size = 0;
 
 var api = {
-	method: 'https://api.vk.com/method/execute.videoSave', v: 5.29, lang: 'en',
+	method: 'https://api.vk.com/method/execute.videoSave', v: 5.107, lang: 'en',
 	auth_url: 'https://oauth.vk.com/authorize?client_id=4218952&display=page&redirect_uri=https%3A%2F%2Fvk.com%2Fblank.html&response_type=token&scope=video,groups,offline',
 	access_token: (argv.k?argv.k:apicfg.access_token), remixsid: (argv.c?argv.c:apicfg.remixsid)
 };

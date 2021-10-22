@@ -140,7 +140,7 @@ var apicfg = require(configdir+'vkpost.json');
 
 var api = {
 	upload: 'https://api.vk.com/method/docs.getWallUploadServer',
-	save: 'https://api.vk.com/method/docs.save', v: '5.53', lang: 'en',
+	save: 'https://api.vk.com/method/docs.save', v: '5.107', lang: 'en',
 	access_token: (argv.k?argv.k:apicfg.access_token),
 };
 
